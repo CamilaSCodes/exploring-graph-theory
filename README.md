@@ -19,3 +19,7 @@ In the process, I gained insights into their fundamental properties, including:
 * Determination of shortest paths utilizing different algorithms, such as Dijkstra and Bellman-Ford.
 
 Studying graphs has been an enriching experience that has deepened my understanding of complex mathematical structures and their practical applications. Understanding the intricacies of graphs and their properties is crucial for tackling a myriad of real-world problems, from designing efficient algorithms to modeling complex networks.
+
+### Technologies
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)
